@@ -41,7 +41,7 @@ body {
     
 }
 .container {
-    max-width: 1480px; /* 1068px  | increase the width to 400px*/
+    max-width: 1440px; /* 1068px  | increase the width to 400px*/
     margin-left: auto;
     margin-right: auto;
 }
